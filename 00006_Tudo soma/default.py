@@ -1,7 +1,7 @@
 def produtorio(numeros):
-  producto = ???
+  produto = ???
   
   for numero in numeros: 
     ???
     
-  return producto
+  return produto
