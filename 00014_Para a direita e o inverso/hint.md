@@ -1,1 +1,1 @@
-En `extremos` no va a alcanzar con sólo extraer segmentos o acceder por indices: vas a tener que de alguna forma crear una nueva lista especificando sus elementos. :thinking:
+Em `extremos` não será suficiente apenas extrair segmentos ou acessar por índices: você terá que de alguma maneira criar uma nova lista especificando seus elementos. :thinking:
