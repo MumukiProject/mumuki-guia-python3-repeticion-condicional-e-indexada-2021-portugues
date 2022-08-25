@@ -3,5 +3,5 @@ def imprimir_cada_elemento(elementos):
     print(elemento)
     
 
-def listo():
+def pronto():
   pass
