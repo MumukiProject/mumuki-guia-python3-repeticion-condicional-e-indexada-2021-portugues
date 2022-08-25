@@ -1,4 +1,4 @@
-:octogonal_sign: Antes de continuar vamos fazer uma parada no caminho para ver <del>uma vaca :cow:</del> outro canto:
+:octagonal_sign: Antes de continuar vamos fazer uma parada no caminho para ver <del>uma vaca :cow:</del> outro canto:
 
 ``` python
 canto_da_vaca = """
