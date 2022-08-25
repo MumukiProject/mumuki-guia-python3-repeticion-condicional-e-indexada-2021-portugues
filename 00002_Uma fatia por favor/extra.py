@@ -2,7 +2,7 @@ def listo():
   pass
 
 
-primera_estrofa = """
+primeira_estrofe = """
 Aquí me pongo a cantar		
 al compás de la vigüela,		
 que el hombre que lo desvela		
