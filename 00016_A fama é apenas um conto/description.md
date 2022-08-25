@@ -1,4 +1,4 @@
-Que sorte que encontramos você, pensamos que você estava indo embora! Você poderia ficar um pouco mais nesta lição? É que Agus e Dani  pediram para ajudá-los a acompanhar a conta das estatísticas deles.
+Que sorte que encontramos você, pensamos que você estava indo embora! Você poderia ficar um pouco mais nesta lição? É que Agus e Dani pediram para ajudá-los a acompanhar a conta das estatísticas deles.
 
 Por enquanto, para o Agus já definimos essa função...
 
