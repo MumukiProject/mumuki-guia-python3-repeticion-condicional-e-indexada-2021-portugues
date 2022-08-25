@@ -10,10 +10,9 @@ Por exemplo, isso permitirá entender a string `"olá mundo"` de duas maneiras d
 <thead>
   <tr>
 	<th></th>
-	<th>h</th>
 	<th>o</th>
 	<th>l</th>
-	<th>a</th>
+	<th>á</th>
 	<th></th>
 	<th>m</th>
 	<th>u</th>
@@ -34,11 +33,9 @@ Por exemplo, isso permitirá entender a string `"olá mundo"` de duas maneiras d
 	<td>6</td>
 	<td>7</td>
 	<td>8</td>
-	<td>9</td>
   </tr>
   <tr>
 	<td>⬅️</td>
-	<td>-10</td>
 	<td>-9</td>
 	<td>-8</td>
 	<td>-7</td>
