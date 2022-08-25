@@ -4,5 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Not:Uses:join"
-  then: 'sí, este ejercicio se puede resolver usando `str.join`, pero la idea es que
-    lo resuelvas usando `for` :smile:'
+  then: 'sim, este exercício pode ser resolvido usando `str.join`, mas a ideia é que
+    você resolva usando `for` :smile:'
