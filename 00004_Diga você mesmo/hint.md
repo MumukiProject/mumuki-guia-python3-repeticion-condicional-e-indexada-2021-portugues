@@ -1,0 +1,1 @@
+:bulb: Lembre-se que `quantidade += 1` é o mesmo que escrever `quantidade = quantidade + 1`. Em outras palavras, estamos _atualizando_ a variável local `quantidade`, incrementando uma de cada vez.
