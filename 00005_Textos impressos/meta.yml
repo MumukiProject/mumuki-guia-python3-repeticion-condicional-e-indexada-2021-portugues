@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: a la voz de aura
-name: Textos impresos
+  output: à voz da aura
+name: Textos impressos
