@@ -25,7 +25,7 @@ def alguma_vez_ultrapassou_meta(duracoes):
 Como podemos ver, aqui a variável local que estamos usando de _acumulador_ é booleana, e em cada _iteração_ (ou seja, cada vez que visitamos uma `duracao`) vamos atualizar o valor, para saber se esta `duracao` ou qualquer das anteriores foi menor que 3.
 
 
-> Agora é a sua vez! Daniel também não quer perder o treino diário de futebol :soccer: e ele precisa de uma função `todos_os_dias_um_pouco` que utilize uma lista de quantos minutos ele treinou por dia, e retorne se seu treino diário sempre foi maior que 30 minutos:
+> Agora é a sua vez! Dani também não quer perder o treino diário de futebol :soccer: e ele precisa de uma função `todos_os_dias_um_pouco` que utilize uma lista de quantos minutos ele treinou por dia, e retorne se seu treino diário sempre foi maior que 30 minutos:
 >
 >
 > ```python
