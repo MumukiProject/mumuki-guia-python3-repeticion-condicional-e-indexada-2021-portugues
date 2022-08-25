@@ -1,12 +1,12 @@
-Como te contábamos cuando empezaste, programar nos da un gran poder: **nos permite automatizar tareas repetitivas y tediosas**.
+Como dissemos quando você começou, a programação nos dá um grande poder: **permite automatizar tarefas repetitivas e entediantes**.
 
-¿Y qué quiere decir eso de "repetitivas"? Pensemos, por ejemplo, ¿cómo haríamos una función que sume los primeros 5 elementos de una lista? 
+E o que seriam tarefas "repetitivas"? Vamos pensar, por exemplo, como faríamos uma função que fizesse a soma dos 5 primeiros elementos de uma lista?
 
-```python
-def sumar_los_primeros_5(una_lista):
-  return una_lista[0] + una_lista[1] + una_lista[2] + una_lista[3] + una_lista[4]
+``` python
+def  somar_os_primeiros_5(uma_lista):
+  return uma_lista[0] + uma_lista[1] + uma_lista[2] + uma_lista[3] + uma_lista[4]
 ```
 
-¿Notás qué es lo que se repite? Sí, estamos haciendo 4 veces lo mismo: _acceder a un elemento por índice y luego sumarlo_. Sin dudas, sería mucho más interesante que la computadora hiciera eso por nosotros... ¡o si no te estaríamos mintiendo con lo de automatizar! :expressionless:
+Você percebe o que se repete? Sim, estamos fazendo a mesma coisa 4 vezes: _acessando um elemento pelo índice e adicionando_. Sem dúvida, seria muito mais interessante se o computador fizesse isso por nós... ou então estaríamos mentindo para você sobre automatizar! :expressionless:
 
-En esta guía vamos a aprender cómo decirle a la computadora que repita varias veces lo mismo, y también algunos trucos más.
+Nesta guia, vamos aprender como dizer ao computador para repetir a mesma coisa várias vezes e também mais alguns macetes.
