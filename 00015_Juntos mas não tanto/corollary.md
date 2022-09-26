@@ -1,1 +1,1 @@
-¡Bien! Esta versión final de nuestra función `juntar` también existe en Python, y se llama `str.join` :nerd:
+Muito bem! Esta versão final da nossa função `juntar` também existe em Python, e se chama `str.join` :nerd:
