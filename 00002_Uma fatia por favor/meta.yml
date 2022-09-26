@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'con el cantar se consuela'"
+  output: "'com o canto ele se consola'"
 name: Uma fatia por favor
