@@ -1,3 +1,3 @@
-`operacion_misteriosa` hace exactamente lo mismo que la función `len`: cuenta la cantidad de elementos en una secuencia :smile:. Además empieza a darnos una idea de lo poderoso que es combinar _variables locales_ con la estructura `for`. 
+`operacao_misteriosa` faz exatamente o mesmo que a função `len`: conta a quantidade de elementos em uma sequência :smile:. Além disso começa a nos dar uma idéia do poder de combinar _variáveis locais_ com a estrutura `for`. 
 
-Y eso que aún no usamos realmente a cada `elemento`. :face_with_hand_over_mouth:
+E isso que ainda não utilizamos realmente a cada `elemento`. :face_with_hand_over_mouth:
