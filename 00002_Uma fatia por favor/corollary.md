@@ -1,7 +1,7 @@
-¡Bien! Probablemente te haya resultado bastante tedioso resolver la tercera tarea:
+Bom! Você provavelmente achou bastante tedioso resolver a terceira tarefa:
 
 ```python
-primera_estrofa[len(primera_estrofa) - 25:]
+primeira_estrofe[len(primeira_estrofe) - 26:]
 ```
 
-al fin y al cabo, no teníamos ninguna forma para indicar de forma más sencilla que queríamos los últimos 25 elementos.... ¿o sí? ¡Averigüémoslo!
+Finalmente, não tínhamos nenhuma forma para indicar de forma mais simples que queríamos os últimos 26 elementos.... ou tínhamos? Vamos descobrir!
