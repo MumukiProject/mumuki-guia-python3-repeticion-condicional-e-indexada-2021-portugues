@@ -1,3 +1,3 @@
-¡Bien! :clap: Si bien la función `productoria` no existe en Python, sí existe la función `sum` que calcula una sumatoria tal como vimos acá. 
+Muito bem! :clap: Embora a função `produtorio` não exista em Python, existe a função `sum` que calcula uma soma como vimos aqui. 
 
-Lo que tienen estas dos funciones en común (y casi todas las que veremos a continuación) es que se basan en la estructura de un _acumulador_: una variable local que **inicializamos con un valor de base**, y cada vez que visitemos un elemento, **la actualizaremos**. Y al final, **retornaremos ese resultado acumulado**. 
+O que essas duas funções têm em comum (e quase todas as que veremos a seguir) é que elas são baseadas na estrutura de um _acumulador_: uma variável local que **inicializamos com um valor base** e cada vez que visitamos um elemento, **nós a atualizaremos**. E no final, **retornaremos esse resultado acumulado**.
