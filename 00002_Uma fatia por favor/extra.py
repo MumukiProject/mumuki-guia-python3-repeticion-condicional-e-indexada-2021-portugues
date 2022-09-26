@@ -3,10 +3,10 @@ def listo():
 
 
 primeira_estrofe = """
-Aquí me pongo a cantar		
-al compás de la vigüela,		
-que el hombre que lo desvela		
-una pena estraordinaria,		
-como la ave solitaria	
-con el cantar se consuela
+Aqui eu começo a cantar
+ao ritmo da vigüela,
+que o homem que o revela
+uma pena extraordinária,
+como o pássaro solitário
+com o canto ele se consola
 """.strip()
