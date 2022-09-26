@@ -8,4 +8,4 @@ class Test(unittest.TestCase):
     
   
   def test_juntar_quadri_motor_retorna_quadrimotor(self):
-    self.assertEqual(juntar(["cuatri", "motor"]), "cuatrimotor")
+    self.assertEqual(juntar(["quadri", "motor"]), "quadrimotor")
