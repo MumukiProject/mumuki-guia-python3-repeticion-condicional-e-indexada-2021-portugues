@@ -1,3 +1,3 @@
-Como vemos, `print` imprime en pantalla el valor recibido y funciona con listas, strings, y... casi cualquier tipo de dato. Y como todo buen procedimiento, ¡no devuelve nada!
+Como podemos ver, `print` imprime o valor recebido na tela e funciona com listas, strings e... praticamente qualquer tipo de dado. E como todo bom procedimento, não retorna nada!
 
-Por otro lado, cuando estamos en la consola los resultados son apenas diferentes cuando usamos strings. Por eso es que no fue necesario... hasta ahora.  :stuck_out_tongue:
+Por outro lado, quando estamos no console os resultados só serão diferentes quando utilizemos strings. Por isso não foi necessário ... até agora.  :stuck_out_tongue:
