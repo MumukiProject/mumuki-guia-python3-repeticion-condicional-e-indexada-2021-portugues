@@ -12,5 +12,5 @@ Estávamos prestes a propor que você jogasse um jogo conhecido que consiste em 
 > 8
 > ```
 >
-> Considere que as chaves _sempre_ estão.  
+> Considere que as chaves _sempre_ estão presentes.  
 
