@@ -8,7 +8,7 @@ Mas você já deve ter notado que existem duas operações em particular que sã
 31
 ム "em" in "uma única alma dividida em duas"
 True
-ムlen([4, 8, 15, 16, 23, 42])
+ム len([4, 8, 15, 16, 23, 42])
 6
 ム 34 in [1, 1, 2, 3, 5, 8, 13, 21, 34]
 True
