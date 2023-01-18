@@ -32,4 +32,4 @@ Essa estrutura de controle vai permitir...
 > ```python
 ムimprimir_cada_elemento(range(5, 30, 2)) # preste atenção ao terceiro argumento de range
 ```
-> Cuando terminar, escreva `pronto()`
+> Quando terminar, escreva `pronto()`
