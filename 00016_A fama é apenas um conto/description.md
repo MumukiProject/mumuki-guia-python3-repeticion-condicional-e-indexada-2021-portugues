@@ -4,7 +4,7 @@ Por enquanto, para o Agus já definimos essa função...
 
 
 ```python
-def cuantas_vezes_ultrapassouu_objetivo(duracoes):
+def quantas_vezes_ultrapassou_objetivo(duracoes):
   vezes = 0
  
   for duracao in duracoes:
