@@ -14,7 +14,7 @@ def quantas_vezes_ultrapassou_objetivo(duracoes):
   return vezes
 ```
 
-...que é muito parecido com o que já havíamos definido, mas tem uma novidade: agora estamos contando **quantas vezes** o objetivo foi superado. E para isso precisamos de um `if`, com algumas novidades:
+...que é muito parecida com o que já havíamos definido, mas tem uma novidade: agora estamos contando **quantas vezes** o objetivo foi superado. E para isso precisamos de um `if`, com algumas novidades:
 
   * Por um lado, está dentro do `for`, tabulado, e não retorna nada;
   * por outro lado, não tem `else`: se a condição não for atendida, não faz _nada_.
