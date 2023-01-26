@@ -8,7 +8,7 @@ def quantas_vezes_ultrapassou_objetivo(duracoes):
   vezes = 0
   
   for duracao in duracoes:
-	  if duracao < 3:
+    if duracao < 3:
       vezes += 1
     
   return vezes
