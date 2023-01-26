@@ -13,13 +13,13 @@ E para isso definiu a seguinte função:
 
 ```python
 def alguma_vez_ultrapassou_meta(duracoes):
-  ultrapassou = False # a principio, não ultrapassou o tempo de 3 minutos
+	ultrapassou = False # a principio, não ultrapassou o tempo de 3 minutos
  
-  for duracao in duracoes:
-	ultrapassou = ultrapassou or duracao < 3 # mas se alguma delas é menor que 3 minutos,
-                                	# então sim vai ter ultrapassado
+	for duracao in duracoes:
+		ultrapassou = ultrapassou or duracao < 3 # mas se alguma delas é menor que 3 minutos,
+																						 # então sim vai ter ultrapassado
  
-  return ultrapassou
+	return ultrapassou
 ```
 
 Como podemos ver, aqui a variável local que estamos usando de _acumulador_ é booleana, e em cada _iteração_ (ou seja, cada vez que visitamos uma `duracao`) vamos atualizar o valor, para saber se esta `duracao` ou qualquer das anteriores foi menor que 3.
