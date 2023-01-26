@@ -21,12 +21,11 @@ def quantas_vezes_ultrapassou_objetivo(duracoes):
 
 Em outras palavras: a cada iteração, se a condição `duracao < 3` for verdadeira, o acumulador `vezes` será incrementado, caso contrário permanecerá o mesmo.
 
-> Sabendo disso, vamos agora ajudar o Dani a definir `quantas_vezes_eu_treino_o_suficiente`, que retorna o número de vezes que ele treinou por mais de 30 minutos.
-
+> Sabendo disso, vamos agora ajudar Dani a definir `quantas_vezes_treinou_o_suficiente`, que retorna o número de vezes que Dani treinou por mais de 30 minutos.
 >
 > ```python
-> ム quantas_vezes_treino_o_suficiente([35, 40, 32, 60])
-> 4  # todos os dias treino mais de 30 minutos
-> ム quantas_vezes_treino_o_suficiente([15, 45, 90, 0])
-> 2 # apenas dois dias treino mais de 30 minutos
+> ム quantas_vezes_treinou_o_suficiente([35, 40, 32, 60])
+> 4  # todos os dias treinou mais de 30 minutos
+> ム quantas_vezes_treinou_o_suficiente([15, 45, 90, 0])
+> 2 # apenas dois dias treinou mais de 30 minutos
 > ```
