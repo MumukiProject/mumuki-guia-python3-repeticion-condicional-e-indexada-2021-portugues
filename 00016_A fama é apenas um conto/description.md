@@ -1,6 +1,6 @@
-Que sorte que encontramos você, pensamos que você estava indo embora! Você poderia ficar um pouco mais nesta lição? É que Agus e Dani pediram para ajudá-los a acompanhar a conta das estatísticas deles.
+Que sorte que encontramos você, pensamos que você estava indo embora! Você poderia ficar um pouco mais nesta lição? É que Agus e Dani nos pediram ajuda para acompanhar a conta de suas estatísticas.
 
-Por enquanto, para o Agus já definimos essa função...
+Por enquanto, para Agus já definimos essa função...
 
 
 ```python
