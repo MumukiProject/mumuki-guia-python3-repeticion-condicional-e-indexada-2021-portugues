@@ -1,20 +1,17 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: "???"
   then: 'não se esqueça de substituir os `???` pelo código que realmente faça alguma
     coisa :smile:'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - todos_os_dias_um_pouco Not:UsesOr
   then: no exemplo anterior, tivemos que validar que **alguma** duração atendesse
     a uma condição e usamos `or`, mas aqui temos que validar que **todas** as durações
     atendam a essa condição. Há algum outro operador lógico que resolva esse problema
     para nós?
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     only_these_expectations_failed:
     - todos_os_dias_um_pouco Not:Assigns:WithFalse
   then: você provavelmente deseja inicializar seu acumulador com outro valor

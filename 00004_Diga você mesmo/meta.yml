@@ -8,27 +8,21 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` é uma função, porque retorna algo"
+- value: "`operacao_misteriosa` é uma função, porque retorna algo"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` é um procedimento, pois não retorna nada"
+- value: "`operacao_misteriosa` é um procedimento, pois não retorna nada"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` visita cada elemento de `elementos` e incrementa `quantidade`
+- value: "`operacao_misteriosa` visita cada elemento de `elementos` e incrementa `quantidade`
     de mais `1` para cada"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` inicializa uma variável local `quantidade` em `0`"
+- value: "`operacao_misteriosa` inicializa uma variável local `quantidade` em `0`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` inicializa uma variável global `quantidade` em `0`"
+- value: "`operacao_misteriosa` inicializa uma variável global `quantidade` em `0`"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` faz o mesmo que a função `len`"
+- value: "`operacao_misteriosa` faz o mesmo que a função `len`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacao_misteriosa` não usa a variável `elemento`"
+- value: "`operacao_misteriosa` não usa a variável `elemento`"
   checked: true
 name: Diga você mesmo
